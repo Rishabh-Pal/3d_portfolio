@@ -34,6 +34,7 @@ const Hero = () => {
             <motion.div
               animate={{
                 y: [0, 24, 0],
+                // x: [9,67,5]
               }}
               transition={{
                 duration: 1.5,
