@@ -190,12 +190,20 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Nexttours",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "Web-based platform that allows users to search, book, and manage Tourist guid for a specific Tour from various spots, providing a convenient and efficient solution for transportation needs.",
         tags: [
             {
-                name: "react",
+                name: "nextjs",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "nodejs",
+                color: "green-text-gradient"
+            },
+            {
+                name: "express",
                 color: "blue-text-gradient",
             },
             {
@@ -204,19 +212,19 @@ const projects = [
             },
             {
                 name: "tailwind",
-                color: "pink-text-gradient",
+                color: "blue-text-gradient",
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Rishabh-pal/Nexttours",
     },
     {
-        name: "Job IT",
+        name: "Kreomart",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Ecommerce web application that enables users to search for products with there categories and subcategories in different variety and can do add to cart and checkout for payment for delivery.",
         tags: [
             {
-                name: "react",
+                name: "nextjs",
                 color: "blue-text-gradient",
             },
             {
@@ -224,33 +232,37 @@ const projects = [
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
+                name: "django",
                 color: "pink-text-gradient",
+            },
+            {
+                name: "tailwindcss",
+                color: "blue-text-gradient",
             },
         ],
         image: jobit,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Rishabh-Pal/Kreomart",
     },
     {
-        name: "Trip Guide",
+        name: "Flickbase",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Web application for write and post an article and blogs, It has search, pagination an article with full user authentication and autherization,.",
         tags: [
             {
-                name: "nextjs",
+                name: "react",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "node",
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "express",
                 color: "pink-text-gradient",
             },
         ],
         image: tripguide,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Rishabh-pal/Flickbase",
     },
 ];
 
