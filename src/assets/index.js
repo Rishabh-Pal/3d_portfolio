@@ -21,10 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import Kreomart from "./company/meta.png";
-import Chiefex from "./company/shopify.png";
-import Abhyaz from "./company/starbucks.png";
-import Dremzo from "./company/tesla.png";
+import Kreomart from "./company/Kreomart.svg";
+import Chiefex from "./company/Chiefex.jpg";
+import Abhyaz from "./company/Abhyaz.webp";
+import Dremzo from "./company/Dremzo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
