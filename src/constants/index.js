@@ -15,6 +15,7 @@ import {
     git,
     figma,
     docker,
+    KreoImg,
     Kreomart,
     Abhyaz,
     Dremzo,
@@ -248,8 +249,8 @@ const projects = [
                 color: "blue-text-gradient",
             },
         ],
-        image: jobit,
-        source_code_link: "https://github.com/Rishabh-Pal/Kreomart",
+        image: KreoImg,
+        source_code_link: "https://github.com/dgpiyush/kreomart-frontend",
     },
     {
         name: "Flickbase",
